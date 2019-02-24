@@ -14,7 +14,7 @@ import distances
 def create_data_model():
   """Creates the data for the example."""
   data = {}
-  data['API_key'] = 'AIzaSyBK6C2_vlhw2pMEBrUdCfFsZ74HHB652cs'
+  data['API_key'] = 'abc'
   data['addresses'] = ['kukatpally+hyderabad+india', # depot
                        
                        'lalapet+secunderabad+india'
